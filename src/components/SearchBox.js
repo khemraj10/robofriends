@@ -1,7 +1,7 @@
 import React from "react";
 
-// searchfield is not used in upcoming videos because not needed in this component
 const SearchBox = ({ searchChange }) => {
+	
 	return (
 		<div className="pa2">
 			<input 
